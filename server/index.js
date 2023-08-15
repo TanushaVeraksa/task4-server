@@ -4,7 +4,7 @@ const PORT = process.env.PORT || 5000;
 // const sequelize = require("./db");
 // const router = require('./routes/index')
 // const errorHandler = require('./middleware/ErrorMiddleware')
-// const cors = require("cors");
+const cors = require("cors");
  
 const app = express();
 
