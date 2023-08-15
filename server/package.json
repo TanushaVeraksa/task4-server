@@ -19,5 +19,8 @@
     "mysql2": "^3.6.0",
     "sequelize": "^6.32.1",
     "tedious": "^16.4.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.1"
   }
 }

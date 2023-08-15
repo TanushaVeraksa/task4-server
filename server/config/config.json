@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "freedb_user7",
+    "password": "N5CTz&TXwPH4MR6",
+    "database": "freedb_userDB1234",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "freedb_user7",
+    "password": "N5CTz&TXwPH4MR6",
+    "database": "freedb_userDB1234",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "freedb_user7",
+    "password": "N5CTz&TXwPH4MR6",
+    "database": "freedb_userDB1234",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql"
+  }
+}
